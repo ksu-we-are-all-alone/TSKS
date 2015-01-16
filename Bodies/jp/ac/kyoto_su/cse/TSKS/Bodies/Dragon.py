@@ -6,8 +6,8 @@ from __future__ import print_function
 import os
 import urllib
 
-from jp.ac.kyoto_su.cse.modeling.mvc.openGLModel import OpenGLModel
-from jp.ac.kyoto_su.cse.modeling.openGL.openGLTriangle import OpenGLTriangle
+from jp.ac.kyoto_su.cse.TSKS.MVC.Model import OpenGLModel
+from jp.ac.kyoto_su.cse.TSKS.Parts.Triangle import OpenGLTriangle
 
 TRACE = True
 

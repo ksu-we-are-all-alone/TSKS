@@ -7,8 +7,8 @@ import sys
 import os
 import urllib
 
-from jp.ac.kyoto_su.cse.modeling.mvc.openGLModel import OpenGLModel
-from jp.ac.kyoto_su.cse.modeling.openGL.openGLPolygon import OpenGLPolygon
+from jp.ac.kyoto_su.cse.TSKS.MVC.Model import OpenGLModel
+from jp.ac.kyoto_su.cse.TSKS.Parts.Polygon import OpenGLPolygon
 
 TRACE = True
 
