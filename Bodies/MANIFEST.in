@@ -1,5 +1,5 @@
 include MANIFEST.in
 include Makefile
-include startup.py
+include Bodies.py
+include PyOpenGL-3.1.0.zip
 recursive-include Bodies.app *
-recursive-include jp *
